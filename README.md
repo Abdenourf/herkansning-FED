@@ -6,11 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.![dummy-plaatje](https://github.com/user-attachments/assets/5cdeddc5-fcb1-4ce0-bea3-a0941608b422)
-
-
-
-
+Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
 ## Jij
@@ -19,13 +15,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Abdenour el Faddali
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+blauw 
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+responsiveness
  
 </details>
 
@@ -39,18 +35,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.massimodutti.com/nl/heren-n1343
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  massimo dutti overzichtspagina
+<img width="279" height="746" alt="massimodutti-overzicht-telefoon" src="https://github.com/user-attachments/assets/25cc3f47-9b58-481f-b62e-90c278faf9e3" />
+
+
+
+  alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
-</details>
-![dummy-plaatje](https://github.com/user-attachments/assets/4b7572e6-78cc-4648-828c-2c1d83b2d704)
+  detail pagina
+ <img width="270" height="745" alt="massimodutti-detail-telefoon" src="https://github.com/user-attachments/assets/4b7df2bd-670f-47de-a739-3f9c650e9503" />
+
 
 
 

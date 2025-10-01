@@ -12,7 +12,7 @@ Je startniveau:
 Blauwe piste
 
 Je focus:
-Surface
+responsiveness
 
 Je website
 https://www.massimodutti.com/nl/

@@ -1,0 +1,40 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
+
+
+/*********************/
+/* JOUW STYLING      */
+/*********************/
+
+/* Basis opmaak */
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	line-height: 1.5;
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 1em;
+  }
+
+  
+  /* Navigatie */
+  nav a {
+	margin-right: 1em;
+	text-decoration: none;
+	color: black;
+  }
+

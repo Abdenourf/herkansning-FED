@@ -1,5 +1,3 @@
-
-[README.md](https://github.com/user-attachments/files/22643001/README.md)
 # Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
@@ -9,19 +7,22 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
+
+
+
 ## Jij
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
- Abdenour el Faddali
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-blauw 
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-responsiveness
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -35,20 +36,17 @@ responsiveness
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-https://www.massimodutti.com/nl/heren-n1343
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  massimo dutti overzichtspagina
-<img width="279" height="746" alt="massimodutti-overzicht-telefoon" src="https://github.com/user-attachments/assets/25cc3f47-9b58-481f-b62e-90c278faf9e3" />
-
-
-
-  alt="omschrijving van de pagina">
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  detail pagina
- <img width="270" height="745" alt="massimodutti-detail-telefoon" src="https://github.com/user-attachments/assets/4b7df2bd-670f-47de-a739-3f9c650e9503" />
-
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ 
+</details>
 
 
 
